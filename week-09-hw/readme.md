@@ -15,5 +15,5 @@ I found that choosing a pastel lavender for the background and complementing it 
 ### Screenshots
 
 I spent a great deal of time writing the code this week, so I thought I would screenshot some of it for your viewing. I also was able to add an icon to the tab title, which I found really cool; you can see the little kitty icon in the tab of my page.
-![Image](images/Capture1.jpg)
-![Image](images/Capture2.jpg)
+![Image](Images/Capture1.jpg)
+![Image](Images/Capture2.jpg)
