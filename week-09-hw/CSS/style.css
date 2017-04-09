@@ -1,0 +1,190 @@
+body {
+font-family: 'Pavanam', sans-serif;
+background-color: #d3d7ff;}
+
+header {
+    margin: 50px;
+    padding: 35px;
+}
+.menu-container {
+    background-color: #fce8cf;
+    border-style: groove;
+    border-width: 14px;
+    border-color: #25473c;
+    margin: 5px;
+    padding: 5px;
+  }
+.menu-item {
+
+    display: inline-block;
+    margin: 2px;
+
+    text-align: center;
+    background-color: #84bcab;
+    padding: 0.3em 0;
+    width: 30%;
+
+}
+
+.menu-item a {
+    color: #25473c;
+    text-decoration: underline;
+}
+
+.menu-item:hover {
+    background-color: #dcefe9;
+}
+
+.dropdown {
+    display: inline-block; margin: auto;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+
+    margin: 0;
+    margin-top: 0.5em;
+    color: #25473c;
+    background-color: #dcefe9;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #25473c;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 8em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #25473c;
+    background-color: #84bcab;
+}
+
+.main-header {
+    margin: auto;
+    background-color: #8cffda;
+    height: 90px;
+
+
+}
+
+.site-name {
+
+  background-color: #8cffda;
+  height: auto;
+    float: center;
+    padding: 10px;
+
+    font-weight: bolder;
+    font-size: 3.5em;
+    color: #162b24;
+  text-align: center;
+}
+
+
+.site-logo {
+
+    float: left;
+    padding: 5px;
+    margin-right: 0em;
+}
+
+.site-logo img {
+    height: 66px;
+}
+
+}
+.main-container h1 {
+    text-align: center;
+    font-family: 'Pavanam', sans-serif;
+    font-weight: 225;
+    letter-spacing: 0.45em;
+    word-spacing: 1em;
+    padding: 1em;
+    margin-top: auto;
+    color: #26272b;
+
+
+
+
+}
+
+.main-container p {
+    padding: 1em 1em;
+    font-family: 'Pavanam', sans-serif;
+    text-indent: 1.5em;
+    line-height: 1.5em;
+    text-align: justify; }
+
+    .side.menuitem {
+      width: 125px;
+         height: auto;
+    display: block;
+    float: right;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 0.1em 0;
+    text-decoration: underline;
+    background-color: #162b24;
+    color: #fff;
+}
+
+.side.menuitem {
+    display: block;
+    float: right;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 0.5em;
+    margin: 0.1em 0;
+    text-decoration: none;
+    background-color: #618277;
+    color: #fff;
+
+}
+
+.side.menuitem:hover {
+    background-color: #b3e0d1;
+    color: #fff;
+}
+
+
+
+span.bold { font-weight: bold;
+font-size: 2.5em;
+text-align: center;}
+
+#normdiv {
+font-size: .75em;
+    z-index: 4;
+    float: inherit;
+    position: left;
+    height: 85px;
+    border: 10px inset #618277;
+    background-color: #afffe4;
+    margin: 10px 60px 0px 60px;
+    text-align: center;
+}
+#reldiv2 {
+    z-index: -1;
+    height: 75px;
+    position: relative;
+    top: 17px;
+    left: 25px;
+    border: 7px dashed #b3e0d1;
+    background-color: #fce8cf;
+    margin: 0px 40px 0px 40px;
+    text-align: Left;
+
+}
