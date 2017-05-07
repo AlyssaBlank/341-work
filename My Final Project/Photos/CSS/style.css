@@ -69,6 +69,24 @@ body {
 .img-3 {
         min-height: 800px;
         background-image: url('../Images/backpack.jpg');}
+        
+.kitty, .gang {
+                position:relative;
+                margin: auto;
+                max-width: 50%;
+                max-height: 50%;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+}
+
+.kitty {
+  content:url('../Images/kitty.jpeg')
+  }
+.gang {
+  content:url('../Images/gang.jpg')
+}
 
 .about {
         padding: 55px 85px;
